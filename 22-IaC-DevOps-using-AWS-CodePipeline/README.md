@@ -430,6 +430,9 @@ git clone https://github.com/stacksimplify/terraform-iacdevops-with-aws-codepipe
 # Verify Git Status
 git status
 
+# sergio añadir los ficheros
+git add . 
+
 # Git Commit
 git commit -am "First Commit"
 
